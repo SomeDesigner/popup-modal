@@ -1,0 +1,25 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+$first-color: hsl(255, 16%, 18%);
+$first-color-alt: hsl(255, 16%, 12%);
+
+$black: hsl(0, 0%, 4%) !default;
+$white: hsl(0, 0%, 100%) !default;
+$silver: hsl(255, 8%, 35%) !default;
+$teal: hsl(171, 100%, 41%) !default;
+$grey-lighter: hsl(0, 0%, 86%) !default;
+$grey-light: hsl(0, 0%, 71%) !default;
+
+$title-color: $black;
+$text-color: $silver;
+$body-bg: $white;
+$container-color: $white;
+
+/*========== Font and typography ==========*/
+$body-font: 'Poppins', sans-serif;
+$big-font-size: 1.5rem;
+$normal-font-size: 0.938rem;
+
+/*========== z index ==========*/
+$z-modal: 1000;
